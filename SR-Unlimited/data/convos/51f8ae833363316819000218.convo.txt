@@ -533,7 +533,7 @@ nodes {
     comment: "Club Penumbra"
   }
   branches {
-    responseText: "the docks"
+    responseText: "The Docks"
     conditions {
       ops {
         functionName: "Comparison (string)"
